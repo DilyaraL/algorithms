@@ -2,7 +2,7 @@
 
 ## Задачи:
 
-- [x] https://leetcode.com/problems/valid-palindrome/description/ ([решение](solutions/reorder-list.md))
+- [x] https://leetcode.com/problems/valid-palindrome/description/ ([решение](solutions/valid-palindrome.md))
 - [x] https://leetcode.com/problems/fibonacci-number/description/ ([решение](solutions/linked-list-cycle-ii.md))
 - [x] https://leetcode.com/problems/merge-intervals/description/ ([решение](solutions/linked-list-cycle-ii.md))
 - [ ] https://leetcode.com/problems/non-overlapping-intervals/description/ ([решение](solutions/linked-list-cycle-ii.md))
